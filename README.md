@@ -10,10 +10,11 @@ I also added some css styles to make it a little nicer to view.
 
 <br>
 
-Remember to run the database and the app at the same time on seperate terminal tabs.
+**Remember** to run the database and the app at the same time on seperate terminal tabs.
 
 <br>
 
+### Screenshots of the app, server and server output:
 <p align="center">
   <img width="30%" src="public/img/screenshot_app.png">
   <img width="30%" src="public/img/screenshot_server.png">
